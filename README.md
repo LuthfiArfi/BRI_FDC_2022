@@ -20,8 +20,8 @@ Pekerjaan yang peserta lakukan harus memenuhi langkah-langkah berikut, antara la
 ## Data
 
 Data terdiri atas dua dataset, yaitu:
-* [fin_data_challenge_train.csv](findata_challenge_train.csv): 100.000 baris dan 126 kolom (125 kolom fitur dan 1 kolom target 'y’)
-* [fin_data_challenge_test.csv](findata_challenge_test.csv): 25.000 baris dan 125 kolom (tanpa kolom target 'y’)
+* 100.000 baris dan 126 kolom (125 kolom fitur dan 1 kolom target 'y’)
+* 25.000 baris dan 125 kolom (tanpa kolom target 'y’)
 
 **Deskripsi Kolom**<br />
 Data Nasabah: <br />
